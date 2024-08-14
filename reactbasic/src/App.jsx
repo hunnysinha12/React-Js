@@ -1,7 +1,10 @@
+import Hunny from "./Hunny";
 function App() {
  
   return (
-    <h1>Hello World | Hunny Sinha</h1>
+    <>
+    <Hunny />
+    </>
   );
 }
 
